@@ -1,0 +1,24 @@
+^@^A^B^C^D^E^F^G^H^I
+^K^L
+^N^O^P^Q^R^S^T^U^V^W^X^Y^Z^[^\^]^^^_
+
+
+|
+|
+
+
+M-PM-0 M-PM-1 M-PM-2 M-PM-3 M-PM-4
+M-PM-5 M-QM-^Q M-PM-6 M-PM-7 M-PM-8 M-PM-9
+M-PM-: M-PM-; M-PM-< M-PM-= M-PM->
+M-PM-? M-QM-^@ M-QM-^A M-QM-^B M-QM-^C
+M-QM-^D M-QM-^E M-QM-^F M-QM-^G M-QM-^H
+M-QM-^I M-QM-^L M-QM-^K M-QM-^J M-QM-^M M-QM-^N M-QM-^O
+
+
+
+    M-PM-2M-PM-0M-PM-?M-QM-^@M-PM-0M-PM-?M-QM-^@
+M-PM-2M-PM-0M-PM-?M-PM-2M-PM-0M-PM-?M-QM-^@
+
+
+M-PM-2M-PM-0M-PM-?M-QM-^@M-PM-0M-PM-?M-QM-^@
+M-PM-2M-PM-0M-PM-?M-PM-2M-PM-0M-PM-?M-QM-^@

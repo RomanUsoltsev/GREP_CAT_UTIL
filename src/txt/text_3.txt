@@ -1,0 +1,25 @@
+Statistical
+methods are
+used in almost every
+discipline, including agriculture, astronomy,
+biology, business, communications, economics,
+        education, electronics, geology, health sciences, and many other fields of science and engineering,
+    and can aid us in several ways. Modern applications of statistical techniques include statistical communication theory and
+        signal processing, information theory, network security and denial-of-service problems, clinical trials, artificial and biological
+intelligence, quality control of manufactured items, software reliability, and survival analysis. The first of these is to
+        assist us in designing experiments and surveys. We desire our experiment to yield adequate answers to the questions that
+prompted the experiment or survey. We would like the answers to have good precision without involving a lot of
+        expenditure. Statistically designed experiments facilitate the development of robust products that are insensitive to changes
+in the environment and internal component variation. Another way that statistics assists us is in organizing, describing,
+summarizing, and displaying experimental data. This is termed descriptive statistics. Many of the descriptive statistics
+methods presented in this chapter are also part of the general area known as exploratory data analysis (EDA). A third use of
+
+
+statistics is in drawing inferences and making decisions based on data. For example, scientists may collect experimental
+data to prove or disprove an intuitive conjecture or hypothesis. Through the proper use of statistics, we can conclude
+whether the hypothesis is valid or not. In the process of solving a real-life problem using statistics, the following three basic
+steps may be identified. First, consistent with the objective of the problem, we identify the model using the appropriate
+statistical method. Then, we justify the applicability of the selected model to fulfill the aim of our problem. Last, we
+properly apply the related model to analyze the data and make the necessary decisions, which results in answering the
+question of our problem with minimum risk. Starting with Chapter 2, we will study the necessary background material to
+proceed with the development of statistical methods for solving real-world problems.

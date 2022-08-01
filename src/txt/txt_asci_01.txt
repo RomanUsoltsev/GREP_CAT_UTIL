@@ -1,0 +1,59 @@
+M-PM-^P  M-PM-^Q  M-PM-^R  M-PM-^S  M-PM-^T  M-PM-^U
+
+M-PM-^A  M-PM-^V  M-PM-^W  M-PM-^X  M-PM-^Y  M-PM-^Z
+
+M-PM-^[  M-PM-^\  M-PM-^]  M-PM-^^  M-PM-^_  M-PM-
+
+M-PM-!  M-PM-"  M-PM-#  M-PM-$  M-PM-%  M-PM-&
+
+M-PM-'  M-PM-(  M-PM-)  M-PM-*  M-PM-+  M-PM-,
+
+M-PM--  M-PM-.  M-PM-/
+
+M-PM-0  M-PM-1  M-PM-2  M-PM-3  M-PM-4  M-PM-5
+
+M-QM-^Q  M-PM-6  M-PM-7  M-PM-8  M-PM-9  M-PM-:
+
+M-PM-;  M-PM-<  M-PM-=  M-PM->  M-PM-?  M-QM-^@
+
+M-QM-^A  M-QM-^B  M-QM-^C  M-QM-^D  M-QM-^E  M-QM-^F
+
+M-QM-^G  M-QM-^H  M-QM-^I  M-QM-^J  M-QM-^K  M-QM-^L
+
+M-QM-^M  M-QM-^N  M-QM-^O
+
+
+M-cM-?M-)  M-cM-^AM-^L  M-cM-^CM-^@  M-cM-^BM-&  M-cM-^CM-3
+
+M-cM-^CM--  M-cM-^CM-<  M-cM-^CM-^I  M-cM-^AM-'  M-cM-^AM-^M  M-cM-^AM->
+
+M-cM-^AM-^[  M-cM-^BM-^S
+
+
+PP  PQ  PR  PS  PT  PU
+
+PA  PV  PW  PX  PY  PZ
+
+P[  P\  P]  P^  P_  P
+
+P!  P"  P#  P$  P%  P&
+
+P'  P(  P)  P*  P+  P,
+
+P-  P.  P/
+
+P0  P1  P2  P3  P4  P5
+
+QQ  P6  P7  P8  P9  P:
+
+P;  P<  P=  P>  P?  Q@
+
+QA  QB  QC  QD  QE  QF
+
+QG  QH  QI  QJ  QK  QL
+
+QM  QN  QO
+
+c?)  cAL  cC@  cB&  cC3
+cC-  cC<  cCI  cA'  cAM  cA>
+cA[  cBS
