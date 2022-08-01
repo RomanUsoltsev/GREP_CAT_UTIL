@@ -1,5 +1,5 @@
 //
-// Created by Tashia Buttercup on 22.11.2021.
+// Created by roman on 24.11.2021.
 //
 #include <stdio.h>
 void compare_text(char *file_m, char *file_o, int *error_test);

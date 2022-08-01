@@ -1,3 +1,6 @@
+//
+// Created by roman on 24.11.2021.
+//
 #include <stdio.h>
 #include <string.h>
 #include "general_functions.h"
@@ -41,9 +44,6 @@ int str_flag(char *argv, int *arr_param);
 void print_param(int argc, char **argv);
 void print_stdout(int *buff);
 void add_m_notations(int *buff, int *shift, int flag_add);
-
-
-// void print_stdout_debag(int *buff);
 
 
 void my_cat(int argc, char **argv);

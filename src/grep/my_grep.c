@@ -1,3 +1,6 @@
+//
+// Created by roman on 24.11.2021.
+//
 #include <regex.h>
 #include <stdio.h>
 #include "../cat/general_functions.h"
@@ -81,7 +84,6 @@ void s21_grep(int argc, char * argv[]) {
   if (argc != 1) {
     int arr_param[ARR_PARAM_SIZE] = {0};
     int bool = g_find_flags(argc, argv, arr_param);
-//    g_print_stdout_debag(arr_param);
     if (check_empty_flag(arr_param) == TRUE && bool / BOLL_SIZE == TRUE) {
         g_file_handling(1, argc, argv, arr_param);
       } else if (check_empty_flag(arr_param) == FALSE && bool / BOLL_SIZE == TRUE) {
@@ -149,13 +151,7 @@ void g_file_handling(int shift, int argc, char **argv, int *arr_param) {
     char *file_name[ARR_FILE_SIZE] = {NULL};
     parse_regex_and_file(argc, argv, file_name, regex_arr, arr_param);
     if (regex_arr[len_buff(regex_arr) - 1] == '|') { regex_arr[len_buff(regex_arr) - 1] = '\0'; }
-
-//    printf("%s\n", regex_arr);
-//    for (int i = 0; file_name[i] != NULL; ++i) {
-//      printf("%s\n", file_name[i]);
-//    }
     arr_param[ii] = 0;
-//    g_print_stdout_debag(arr_param);
     with_E_F(file_name, regex_arr, arr_param);
   }
 
@@ -321,7 +317,6 @@ void without_E_F(int *i_, char **argv, int *arr_param, int *bool_regexp_, int *i
     if (bool_regexp == TRUE) {
       if (check_regex_exp(argv[i]) == TRUE_REG) {
         bool_regexp = FALSE;
-//        printf("\nbool - %d\n", bool_regexp);
         index_regex_ = i;
         *index_regex = index_regex_;
         if (g_file_processing(argv[++i], arr_param, argv[index_regex_], FLAGS) == FALSE) {
@@ -350,8 +345,6 @@ int g_file_processing(char *file_name_arr, int *arr_param, char *regexp, int mod
   FILE * file;
   int bool = TRUE;
   if (mode == FLAGS) {
-//    printf("\n%s - %s\n", file_name_arr, regexp);
-
     file = fopen(file_name_arr, "r");
     if (file) {
       fclose(file);
@@ -382,7 +375,6 @@ void g_regex_exp(char *regexp, char *file_name, int *a_p) {
   int coincidence = 0;
   int line_count = count_line(file_name);
   FILE *file = fopen(file_name, "r");
-//  printf("%d - ", line_count);
 
   for (int i = 0; i < line_count; i++) {
     int el = ' ', k = 0; char buff_str[LEN_MAX] = {0};
